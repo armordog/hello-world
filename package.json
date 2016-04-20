@@ -1,0 +1,22 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Testing Stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armordog/hello-world.git"
+  },
+  "author": "Wynn Slater",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/armordog/hello-world/issues"
+  },
+  "homepage": "https://github.com/armordog/hello-world#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
